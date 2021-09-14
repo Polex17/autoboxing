@@ -52,6 +52,7 @@ public class Main {
         System.out.println("boolean value: "+boolvalue);
 
 
+        System.out.println("Hello");
         System.gc();
     }
 }
